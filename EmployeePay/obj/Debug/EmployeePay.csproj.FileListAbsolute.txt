@@ -1,0 +1,9 @@
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe.config
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\bin\Debug\EmployeePay.pdb
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csprojResolveAssemblyReference.cache
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.Form1.resources
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.Properties.Resources.resources
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csproj.GenerateResource.Cache
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.exe
+c:\users\suryateja\documents\visual studio 2015\Projects\EmployeePay\EmployeePay\obj\Debug\EmployeePay.pdb
